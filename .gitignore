@@ -1,0 +1,23 @@
+# IDE files
+
+.vscode/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Environment variables
+
+.env
+.env.*
+
+# PostgreSQL dumps and backups
+
+*.sql.bak
+*.backup
+*.dump
+
+# Logs
+
+*.log
