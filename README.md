@@ -24,6 +24,14 @@ Notes on diversity:
 - Review ratings are weighted (more 4s and 5s, fewer 1s and 2s) like real platforms
 - Order items are matched to each restaurant's cuisine for realism
 
+## Topics & Question Count
+
+| Folder | Topic | Questions |
+|--------|-------|-----------|
+| 01-basics | SELECT, ORDER BY, LIMIT, DISTINCT | 10 |
+
+**Total: 10 questions**
+
 ## How to Use
 - Open `questions.sql` for each topic
 - Write your answer before looking at `answers.sql`
