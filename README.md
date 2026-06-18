@@ -29,8 +29,9 @@ Notes on diversity:
 | Folder | Topic | Questions |
 |--------|-------|-----------|
 | 01-basics | SELECT, ORDER BY, LIMIT, DISTINCT | 10 |
+| 02-filtering | WHERE, AND/OR, IN, LIKE, BETWEEN | 12 |
 
-**Total: 10 questions**
+**Total: 22 questions**
 
 ## How to Use
 - Open `questions.sql` for each topic
