@@ -31,8 +31,9 @@ Notes on diversity:
 | 01-basics | SELECT, ORDER BY, LIMIT, DISTINCT | 10 |
 | 02-filtering | WHERE, AND/OR, IN, LIKE, BETWEEN | 12 |
 | 03-aggregations | COUNT, SUM, AVG, GROUP BY, HAVING | 12 |
+| 04-joins | INNER, LEFT, multi-table joins | 10 |
 
-**Total: 34 questions**
+**Total: 44 questions**
 
 ## How to Use
 - Open `questions.sql` for each topic
